@@ -3,8 +3,8 @@
 
 int main()
 {
-    int a=20;
-    int b=15;
+    int a=25;
+    int b=10;
     additionprogram(a,b);
     subtractionprogram(a,b);
     multiplicationprogram(a,b);
